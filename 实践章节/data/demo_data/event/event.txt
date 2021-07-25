@@ -1,3 +1,4 @@
+event
 cpu.idle load.average_cpu.5min
 cpu.idle load.average_cpu.5min
 cpu.idle load.average_cpu.5min
